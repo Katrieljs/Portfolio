@@ -1,0 +1,28 @@
+{
+  "name": "portafolio",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emailjs/browser": "^3.6.2",
+    "@splinetool/react-spline": "^2.2.1",
+    "@splinetool/runtime": "^0.9.103",
+    "atropos": "^1.0.2",
+    "embla-carousel-autoplay": "^7.0.0",
+    "embla-carousel-react": "^7.0.0-rc05",
+    "framer-motion": "^7.0.0",
+    "next": "12.2.3",
+    "nprogress": "^0.2.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "eslint": "8.20.0",
+    "eslint-config-next": "12.2.3"
+  }
+}

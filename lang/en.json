@@ -1,0 +1,56 @@
+{
+    "home":{
+        "title": "Hi, I'm Katriel Martínez - Web Developer"
+    },
+    "projects":{
+        "title": "Projects",
+        "metaTitle": "Projects - Katriel Martínez",
+        "projectsList":[
+            {"title": "Devter", "description": "Twitter clone made with Next.js and firebase, user authentication, search system, user profile, image and file upload, static pages for each post",  "urlWeb": "https://devter-git-main-katrieljs.vercel.app", "urlRepo": "https://github.com/Katrieljs/Devtter"},
+            {"title": "Ghiphy", "description": "Made with react and Giphy API, lazy loading, search with filters, JWT authentication", "urlWeb": "https://giff-brj4lji3c-katrieljs.vercel.app", "urlRepo": "https://github.com/Katrieljs/App-gifs-react"},
+            {"title": "Fullpage web", "description": "Web developed with a full page design with the fullpage library and jQuery, the web focuses on design", "urlWeb": "https://pagina-ejemplo-artista.vercel.app", "urlRepo": "https://github.com/Katrieljs/Pagina-con-fullpage"},
+            {"title": "3d Brans", "description": "3d designs with spline of logos corresponding to Vercel, Next.js, React, Firebase, Css and Javascript", "urlWeb": "https://my.spline.design/windowscopycopy-a5319a8c823400bb1e3135025c15ec86/"},
+            {"title": "Keyborard 3d", "description": "3d design with spline of an interactive keyboard", "urlWeb": "https://my.spline.design/setupinteractuablecopy-e7e417340ffcbd456da5f8f33286ecaa/"}
+        ]
+    },
+    "about":{
+        "title": "About Me",
+        "metaTitle": "About Me - Katriel Martínez",
+        "content": "I'm Katriel Martínez, 15 years old, I like product development, design, model in 3d and pancakes :3",
+        "slide_1": "From Ecuador",
+        "slide_2": "I love the pancakes",
+        "telf": "Send me a whatsapp",
+        "messageTelf": "Hi%20Katriel"
+    },
+    "skills":{
+        "title": "Skills",
+        "metaTitle": "Skills - Katriel Martínez",
+        "projects": "Projects",
+        "slides": [
+            {"model":"https://draft.spline.design/01-j5wH7zW-xK9HR/scene.splinecode", "title": "React", "href": "https://es.reactjs.org", "projectsList": [{"title": "Devter","href": "https://devter-git-main-katrieljs.vercel.app"},{"title": "Ghiphy", "href": "https://giff-brj4lji3c-katrieljs.vercel.app"}]},
+            {"model":"https://draft.spline.design/82FwXPBSZg5qeggD/scene.splinecode", "title": "Firebase", "href": "https://firebase.google.com", "projectsList": [{"title": "Devter","href": "https://devter-git-main-katrieljs.vercel.app"}]},
+            {"model":"https://draft.spline.design/yDEbwAf7fNUtOxCH/scene.splinecode", "title": "Next.js", "href": "https://nextjs.org", "projectsList": [{"title": "Devter","href": "https://devter-git-main-katrieljs.vercel.app"}]},
+            {"model":"https://prod.spline.design/VkUmn7h-7JIyU9iP/scene.splinecode", "title": "Spline", "href": "https://spline.design", "projectsList": [{"title": "3d Brans","href": "https://my.spline.design/windowscopycopy-a5319a8c823400bb1e3135025c15ec86/"},{"title": "Keyborard 3d", "href": "https://my.spline.design/setupinteractuablecopy-e7e417340ffcbd456da5f8f33286ecaa/"}]},
+            {"model":"https://prod.spline.design/Dh0KaMczqu4-QOae/scene.splinecode", "title": "Css", "href": "https://developer.mozilla.org/es/docs/Web/CSS", "projectsList": [{"title": "Devter","href": "https://devter-git-main-katrieljs.vercel.app"}, {"title": "Ghiphy", "href": "https://giff-brj4lji3c-katrieljs.vercel.app"}, {"title": "Fullpage web","href": "https://pagina-ejemplo-artista.vercel.app"}]},
+            {"model":"https://draft.spline.design/x3VoSPu9JgozsZjh/scene.splinecode", "title": "jQuery", "href": "https://jquery.com", "projectsList": [{"title": "Fullpage web","href": "https://pagina-ejemplo-artista.vercel.app"}]},
+            {"model":"https://prod.spline.design/tOC2OMounqxRJtV5/scene.splinecode", "title": "JavaScript", "href": "https://developer.mozilla.org/es/docs/Web/JavaScript", "projectsList": [{"title": "Devter","href": "https://devter-git-main-katrieljs.vercel.app"}, {"title": "Ghiphy", "href": "https://giff-brj4lji3c-katrieljs.vercel.app"}, {"title": "Fullpage web","href": "https://pagina-ejemplo-artista.vercel.app"}]}
+        ]
+    },
+    "contact":{
+        "title": "Contact Me!",
+        "metaTitle": "Contact Me! - Katriel Martínez",
+        "telf": "Send me a whatsapp",
+        "messageTelf": "Hi%20Katriel",
+        "name": "Enter your name here",
+        "email": "Enter your email here",
+        "message": "Enter your message here",
+        "send": "Send",
+        "sending": "Sending...",
+        "errorNameOne": "Name is required",
+        "errorNameTwo": "Name is too short",
+        "errorNameThree": "Name is too long",
+        "errorEmailOne": "Email is required",
+        "errorEmailTwo": "Email is invalid",
+        "errorMessage": "Message is required"
+    }
+}
